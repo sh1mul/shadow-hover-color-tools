@@ -26,6 +26,13 @@ body{
 	margin: 0 auto;
 	overflow: hidden;
 }
+
+.container-two> :hover article{
+	opacity:.5;
+}
+.container-two:hover article:hover{
+	opacity: 1;
+}
 .container-two .col{
 	width:33.33%;
 
