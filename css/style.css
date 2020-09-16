@@ -26,8 +26,10 @@ body{
 	margin: 0 auto;
 	overflow: hidden;
 }
-
-.container-two> :hover article{
+.container-two article{
+	transition-duration: 1s;
+}
+.container-two:hover article{
 	opacity:.5;
 }
 .container-two:hover article:hover{
