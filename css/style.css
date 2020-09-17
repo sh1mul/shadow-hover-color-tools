@@ -56,7 +56,7 @@ body{
 	transition: transform .3s;
 	padding: 15px;
 	/* background: #8489a00a; */
-	box-shadow: 5px 5px 10px #f7f7f7, 
+	box-shadow: 5px 5px 10px #dedddd, 
              -5px -5px 10px #ffffff;
 }
 
